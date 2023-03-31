@@ -1,4 +1,4 @@
-# syukatu]
+# syukatu
 
 ## このプロジェクトについて
 
