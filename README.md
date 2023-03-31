@@ -6,8 +6,8 @@
 Web→制作中<br>
 
 ゲームのリンクはこちらです。<br>
-Mac版→https://drive.google.com/file/d/199FFzFbBDejLsGpQaSr2ZyeEvN1E08wS/view?usp=share_link<br>
-Win版→https://drive.google.com/file/d/1wAPhj8Bte_vFDFStSqg6iBeNvhQjhejx/view?usp=share_link<br>
+Mac版→https://drive.google.com/file/d/199FFzFbBDejLsGpQaSr2ZyeEvN1E08wS/view<br>
+Win版→https://drive.google.com/file/d/1wAPhj8Bte_vFDFStSqg6iBeNvhQjhejx/view<br>
 Unityroom版→https://unityroom.com/games/syukatu
 
 プレイの動画はこちらです。<br>
