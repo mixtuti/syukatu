@@ -3,7 +3,7 @@
 ## このプロジェクトについて
 
 このプロジェクトの詳細については、以下URLから見て下さい。<br>
-Web→制作中<br>
+Web→https://mixtuti.github.io/mixtuti/portfolio/syukatu.html<br>
 
 ゲームのリンクはこちらです。<br>
 Mac版→https://drive.google.com/file/d/199FFzFbBDejLsGpQaSr2ZyeEvN1E08wS/view<br>
