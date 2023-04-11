@@ -11,7 +11,7 @@ Win版→https://drive.google.com/file/d/1wAPhj8Bte_vFDFStSqg6iBeNvhQjhejx/view<
 Unityroom版→https://unityroom.com/games/syukatu
 
 プレイの動画はこちらです。<br>
-動画→準備中<br>
+動画→https://youtu.be/lNjvmj3MEng<br>
 
 ## その他
 
